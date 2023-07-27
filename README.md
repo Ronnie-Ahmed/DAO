@@ -1,7 +1,7 @@
 
 # Live : [@Live Project Link](https://nftmarketplace-five.vercel.app/)
 
-# NFTMarketPlace
+# DAO
 
 The NFT Marketplace I developed is a game-changer for artists, creators, and collectors alike. It serves as a vibrant hub where individuals can seamlessly discover, buy, and sell unique digital assets, leveraging the power of non-fungible tokens (NFTs).
 
