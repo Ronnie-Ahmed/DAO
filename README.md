@@ -1,5 +1,4 @@
-
-# Live : [@Live Project Link](https://nftmarketplace-five.vercel.app/)
+# Live : [@Live Project Link](https://dao-ronnie-ahmed.vercel.app/)
 
 # DAO
 
@@ -29,14 +28,11 @@ Transparency: Witness the results unfold!
 
 **Frontend/Backend:** React, TailwindCSS, HTML, Solidity, Ethers.js, Thirdweb, Hardhat
 
-
 ## Installation
-
 
 **Frontend:** [@Frontend](https://github.com/Ronnie-Ahmed/DAO)
 **Backend:** [@Backend](https://github.com/Ronnie-Ahmed/DAO-Backend)
 **Graph:** [@Backend](https://github.com/Ronnie-Ahmed/DAO-graph)
-
 
 ```
 
@@ -61,3 +57,4 @@ https://github.com/Ronnie-Ahmed/DAO/assets/68500792/673c182d-28d6-490d-be13-d632
 
 
 
+```
