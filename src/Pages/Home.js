@@ -10,6 +10,7 @@ import { Link } from "react-router-dom";
 export const Home = () => {
   const [isFormOpen, setIsFormOpen] = useState(false);
   const address = useAddress();
+
   const [votingpower, setvotingpower] = useState("");
 
   const status = useConnectionStatus();
@@ -60,6 +61,7 @@ export const Home = () => {
       console.log(err);
     }
   };
+
   useEffect(() => {
     fetchdata();
     // eslint-disable-next-line react-hooks/exhaustive-deps

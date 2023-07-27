@@ -221,7 +221,7 @@ export const Card = ({
         <button
           id="against"
           className="bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-3 px-6 rounded-full transform hover:scale-110 transition-all duration-300 mr-2"
-          onClick={() => handlevoting("asainst")}
+          onClick={() => handlevoting("against")}
         >
           Vote Against
         </button>
