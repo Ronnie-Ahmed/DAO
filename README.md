@@ -3,15 +3,21 @@
 
 # DAO
 
-The NFT Marketplace I developed is a game-changer for artists, creators, and collectors alike. It serves as a vibrant hub where individuals can seamlessly discover, buy, and sell unique digital assets, leveraging the power of non-fungible tokens (NFTs).
+🐧 🐧 DAO 🐧🐧
 
-Throughout this exhilarating journey, I had the privilege to work with an exceptional stack of technologies and tools, including Hardhat, Thirdweb, Javascript, Infura IPFS, React.js, Tailwind CSS, HTML, Solidity, and Ethers.js.
+🗳️ Introducing my Decentralized Autonomous Organization (DAO) powered by OpenZeppelin Governance and ERC20 Tokens! 🌐
 
-Hardhat played a pivotal role in the smart contract development process, providing a robust development environment and a comprehensive testing framework for Ethereum. With its extensive capabilities, I was able to ensure the reliability and security of our smart contracts.
+I've used techs like The Graph, Hardhat, Solidity, ReactJS, Ethers.js , thirdweb development
 
-Working with Thirdweb opened up a realm of possibilities for me. It enabled me to harness decentralized web technologies and build a platform that champions transparency, decentralization, and user empowerment.
+Propose game-changing ideas and watch them transform into reality. Prepare for voting as proposals gain momentum, and then cast your vote with just a few clicks. Vote for, against, or abstain—your decision counts! 💪
 
-The front end of the NFT Marketplace was crafted using React.js, a powerful JavaScript library that facilitated the creation of an engaging and dynamic user interface. By leveraging React.js, I ensured a seamless user experience that captivates and delights our platform's visitors.
+🌟 How It Works:
+Propose: Share your game-changing ideas for the DAO.
+Prepare: Voters get time to research and get ready for voting.
+Vote: Cast your choice for, against, or abstain.
+Incentives: Get rewarded with free tokens for voting!
+Execute: Winning proposals become reality.
+Transparency: Witness the results unfold!
 
 ## Author
 
@@ -26,39 +32,22 @@ The front end of the NFT Marketplace was crafted using React.js, a powerful Java
 
 ## Installation
 
-Install my-project with npm
 
 **Frontend:** [@Frontend](https://github.com/Ronnie-Ahmed/DAO)
 **Backend:** [@Backend](https://github.com/Ronnie-Ahmed/DAO-Backend)
 **Graph:** [@Backend](https://github.com/Ronnie-Ahmed/DAO-graph)
 
-```bash
-  npm install backend
-  git clone git@github.com:Ronnie-Ahmed/NFTMAREKTPLACE_Backend.git
-  cd NFTMAREKTPLACE_Backend
-  yarn build
-  yarn deploy
-```
 
-```bash
-  npm install frontend
-  git clone git@github.com:Ronnie-Ahmed/NFTMARKETPLACE.git
-  cd NFTMARKETPLACE
-  npm install
-  npm run start
 ```
 
 ##Project Video
-
-
-
-
-
-
-
-
+https://github.com/Ronnie-Ahmed/DAO/assets/68500792/673c182d-28d6-490d-be13-d632d4dc07ac
 
 ##Screen Shoots
+![result](https://github.com/Ronnie-Ahmed/DAO/assets/68500792/c06f7e81-d22e-441b-94c0-cfdd492c116e)
+![CastVote](https://github.com/Ronnie-Ahmed/DAO/assets/68500792/a3efd476-e71d-4e50-a86e-4c2d9e4e864f)
+![Homepage](https://github.com/Ronnie-Ahmed/DAO/assets/68500792/a8389216-0bea-4f94-bad5-904d9e3d4d00)
+![Proposal](https://github.com/Ronnie-Ahmed/DAO/assets/68500792/f1e58b90-06d2-479e-bddd-3950ae9315b2)
 
 
 
