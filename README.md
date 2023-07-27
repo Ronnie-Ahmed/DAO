@@ -28,8 +28,9 @@ The front end of the NFT Marketplace was crafted using React.js, a powerful Java
 
 Install my-project with npm
 
-**Frontend:** [@Frontend](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE)
-**Backend:** [@Backend](https://github.com/Ronnie-Ahmed/NFTMAREKTPLACE_Backend)
+**Frontend:** [@Frontend](https://github.com/Ronnie-Ahmed/DAO)
+**Backend:** [@Backend](https://github.com/Ronnie-Ahmed/DAO-Backend)
+**Graph:** [@Backend](https://github.com/Ronnie-Ahmed/DAO-graph)
 
 ```bash
   npm install backend
@@ -50,7 +51,7 @@ Install my-project with npm
 ##Project Video
 
 
-[![Thumbnail](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/474591b1-7d85-4b3f-82b8-e62cb0e3fa0a)](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/9a4d77ce-084c-4a90-9d4a-c028a186a50f)
+
 
 
 
@@ -58,15 +59,7 @@ Install my-project with npm
 
 
 ##Screen Shoots
-![Screenshot 2023-06-24 234455](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/474591b1-7d85-4b3f-82b8-e62cb0e3fa0a)
 
-![2](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/70f25b45-7d70-411e-933a-6325a47f7d5d)
-
-![3](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/9b8bc6d3-facf-413d-8fcd-e345f04d7c89)
-
-![4](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/58e4519e-4452-4e9f-a287-19980e1f40bf)
-
-![6](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/cfa35566-302a-45ed-9a1b-f498bf0d3379)
 
 
 
